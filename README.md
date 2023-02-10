@@ -3,6 +3,7 @@
 <a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" /></a>
 <a href="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png" alt="born2beroot" /></a>
 <a href="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png" alt="get_next_line" /></a>
+<a href="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png" alt="ft_printf" /></a>
 <h2 id="stats" class="text-2xl font-bold">✅ 42 ProjectScore </h2>
 
 so_long
