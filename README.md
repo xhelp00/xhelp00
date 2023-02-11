@@ -6,7 +6,7 @@
 <a href="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png" alt="ft_printf" /></a>
 <h2 id="stats" class="text-2xl font-bold">✅ 42 ProjectScore </h2>
 
-so_long
+so_long <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2977039" alt="phelebra's 42 so_long Score" /></a>
 <br>
 ft_printf <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2963673" alt="phelebra's 42 ft_printf Score" /></a>
 <br>
