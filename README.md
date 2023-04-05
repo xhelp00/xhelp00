@@ -12,12 +12,12 @@
          <tr>
             <td>[Event]April_2023</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3052473" alt="phelebra's 42 [Event]April_2023 Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/norm.jpeg"><img src="https://github.com/xhelp00/xhelp00/blob/main/norm.jpeg" alt="norminette" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/norm.jpeg"><img src="https://github.com/xhelp00/xhelp00/blob/main/norm.jpeg" alt="norminette" width="150" height="150"/></a></td>
         </tr>
         <tr>
             <td>so_long</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2977039" alt="phelebra's 42 so_long Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/so_long.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/so_long.png" alt="ft_printf" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/so_long.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/so_long.png" alt="ft_printf" width="150" height="150" /></a></td>
         </tr>
       <tr>
           <td>Exam Rank 02</td>
