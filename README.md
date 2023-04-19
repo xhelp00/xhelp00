@@ -14,7 +14,6 @@
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3041637" alt="phelebra's 42 push_swap Score" /></a></td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png" alt="push_swap" /></a></td>
         </tr>
-        <tr>
          <tr>
             <td>[Event]April_2023</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3052473" alt="phelebra's 42 [Event]April_2023 Score" /></a></td>
