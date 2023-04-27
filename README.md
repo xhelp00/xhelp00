@@ -23,17 +23,17 @@
         <tr>
             <td>push_swap</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3041637" alt="phelebra's 42 push_swap Score" /></a></td>
-             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png" alt="push_swap" /></a></td>
+             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png" alt="push_swap" width="50" height="50"/></a></td>
         </tr>
          <tr>
             <td>[Event]April_2023</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3052473" alt="phelebra's 42 [Event]April_2023 Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/norm.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/norm.png" alt="norminette" width="150" height="150"/></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/norm.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/norm.png" alt="norminette" width="50" height="50"/></a></td>
         </tr>
         <tr>
             <td>so_long</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2977039" alt="phelebra's 42 so_long Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/so_long.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/so_long.png" alt="ft_printf" width="150" height="150" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/so_long.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/so_long.png" alt="ft_printf" width="50" height="50" /></a></td>
         </tr>
       <tr>
           <td>Exam Rank 02</td>
@@ -43,21 +43,21 @@
       <tr>
             <td>ft_printf</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2963673" alt="phelebra's 42 ft_printf Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png" alt="ft_printf" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png" alt="ft_printf" width="50" height="50"/></a></td>
         </tr>
       <tr>
             <td>get_next_line</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2952061" alt="phelebra's 42 get_next_line Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png" alt="get_next_line" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png" alt="get_next_line" width="50" height="50"/></a></td>
         </tr>
       <tr>
             <td>Born2beroot</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2943998" alt="phelebra's 42 Born2beroot Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png" alt="born2beroot" /></a></td>
+            <td><a href="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png" alt="born2beroot" width="50" height="50"/></a></td>
         </tr>
       <tr>
             <td>Libft</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2929037" alt="phelebra's 42 Libft Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" /></a></td>
+            <td><a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" width="50" height="50"/></a></td>
         </tr>
 </table>
