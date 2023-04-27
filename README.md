@@ -1,9 +1,9 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/stats?cursusId=21&coalitionId=314" alt="phelebra's 42 stats" class="center"/></a>
 ### Spells and Charms 🔮:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Py" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Py" width="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <br>
 
 ### Quests on my journey 📜:
