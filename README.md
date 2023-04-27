@@ -11,7 +11,7 @@
 <table>
     <thead>
         <tr>
-            <th colspan="3">✅ 42 ProjectScore</th>
+            <th colspan="3"> ⚔️ 🐉 </th>
         </tr>
     </thead>
     <tbody>
