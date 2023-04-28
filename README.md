@@ -58,6 +58,6 @@
       <tr>
             <td>Libft</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/2929037" alt="phelebra's 42 Libft Score" /></a></td>
-            <td><a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" width="50" height="50"/></a></td>
+            <td><a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" width="50"/></a></td>
         </tr>
 </table>
