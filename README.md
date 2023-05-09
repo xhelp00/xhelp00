@@ -18,6 +18,21 @@
     </thead>
     <tbody>
         <tr>
+            <td>minishell</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3085209" alt="phelebra's 42 minishell Score" /></a></td>
+          <td></td>
+        </tr>
+        <tr>
+            <td>Philosophers</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3085212" alt="phelebra's 42 Philosophers Score" /></a></td>
+          <td></td>
+        </tr>
+        <tr>
+            <td>Exam Rank 03</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3085208" alt="phelebra's 42 Exam Rank 03 Score" /></a></td>
+          <td></td>
+        </tr>
+        <tr>
             <td>pipex</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3069394" alt="phelebra's 42 pipex Score" /></a></td>
           <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/pipex-bonus.png" alt="pipex" width="75" /></a></td>
