@@ -25,7 +25,7 @@
         <tr>
             <td>Philosophers</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3085212" alt="phelebra's 42 Philosophers Score" /></a></td>
-          <td></td>
+          <td><a href="https://github.com/xhelp00/xhelp00/blob/main/philosopherse.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/philosopherse.png" alt="philo" width="75" /></a></td>
         </tr>
         <tr>
             <td>Exam Rank 03</td>
