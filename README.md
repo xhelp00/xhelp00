@@ -1,5 +1,5 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/stats?cursusId=21&coalitionId=314" alt="phelebra's 42 stats" class="center"/></a>
-### Spells and Charms 🔮:
+### Spells and Charms 🔮
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
