@@ -9,7 +9,7 @@
 <br>
 <br>
 
-### Quests on my journey 📜:
+### Quests on my journey 📜
 <table>
     <thead>
         <tr>
@@ -79,11 +79,11 @@
         </tr>
 </table>
 
-### Side quests 📜:
+### Side quests 📜
 - Learn C (codecademy) ✅
 - CS50 (by Harward) - wip
 - Ethics of AI (University of Helsinki) ✅
 - Prague AI Hackathon ✅
-- <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (webapp) ✅
+- <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (Python webapp on Streamlit) ✅
 - Building AI (University of Helsinki) ✅
 - Practical Ethical Hacking (TCM) - wip
