@@ -84,5 +84,6 @@
 - CS50 (by Harward) - wip
 - Ethics of AI (University of Helsinki) ✅
 - Prague AI Hackathon ✅
+- <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (webapp) ✅
 - Building AI (University of Helsinki) ✅
 - Practical Ethical Hacking (TCM) - wip
