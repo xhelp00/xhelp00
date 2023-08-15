@@ -19,6 +19,21 @@
         </tr>
     </thead>
     <tbody>
+       <tr>
+            <td><a href="https://github.com/xhelp00/cub3d">cub3d</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3241341" alt="phelebra's 42 cub3d Score" /></a></td>
+          <td> </td>
+        </tr>
+        <tr>
+            <td>Exam Rank 04</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3237345" alt="phelebra's 42 Exam Rank 04 Score" /></a></td>
+          <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/xhelp00/Netpractice">Netpractice</td>
+            <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3237344" alt="phelebra's 42 NetPractice Score" /></a></td>
+          <td> </td>
+        </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/minishell">minishell</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3085209" alt="phelebra's 42 minishell Score" /></a></td>
