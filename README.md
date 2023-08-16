@@ -32,7 +32,7 @@
         <tr>
             <td><a href="https://github.com/xhelp00/Netpractice">Netpractice</td>
             <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/project/3237344" alt="phelebra's 42 NetPractice Score" /></a></td>
-          <td> </td>
+          <td><a href="https://github.com/xhelp00/xhelp00/blob/main/netpractice.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/netpractice.png" alt="netpractice" width="75" /></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/minishell">minishell</td>
