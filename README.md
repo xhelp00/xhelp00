@@ -1,5 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=07F700&background=000000&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/stats?cursusId=21&coalitionId=314" alt="phelebra's 42 stats" class="center"/></a>
+<br>
+<!--<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cldbfjrlt00740fmeqr33x6qx/stats?cursusId=21&coalitionId=314" alt="phelebra's 42 stats" class="center"/></a>-->
 ### At the moment I work mainly with these Spells and Charms 🔮
 <img align="left" alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -101,3 +102,4 @@
 - <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (Python webapp on Streamlit) ✅
 - Building AI (University of Helsinki) ✅
 - Practical Ethical Hacking (TCM) - wip
+- Foundational C# with Microsoft - wip
