@@ -27,72 +27,72 @@
         </tr>
         <tr>
             <td>Exam Rank 04</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/Netpractice">Netpractice</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td><a href="https://github.com/xhelp00/xhelp00/blob/main/netpractice.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/netpractice.png" alt="netpractice" width="75" /></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/minishell">minishell</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td><a href="https://github.com/xhelp00/xhelp00/blob/main/minishell.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/minishell.png" alt="minihell" width="75" /></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/Philosophers">Philosophers</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td><a href="https://github.com/xhelp00/xhelp00/blob/main/philosopherse.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/philosopherse.png" alt="philo" width="75" /></a></td>
         </tr>
         <tr>
             <td>Exam Rank 03</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/pipex">pipex</td>
-            <td> finished </td>
+            <td> ✅ </td>
           <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/pipex-bonus.png" alt="pipex" width="75" /></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/push_swap">push_swap</td>
-            <td> finished </td>
+            <td> ✅ </td>
              <td><a href="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/push_swap-bonus.png" alt="push_swap" width="75" /></a></td>
         </tr>
          <tr>
             <td><a href="https://github.com/xhelp00/Event_April_2023">[Event]April_2023</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/norm.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/norm.png" alt="norminette" width="75"/></a></td>
         </tr>
         <tr>
             <td><a href="https://github.com/xhelp00/so_long">so_long</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/so_long.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/so_long.png" alt="ft_printf" width="75"/></a></td>
         </tr>
       <tr>
           <td>Exam Rank 02</td>
-          <td> finished </td>
+          <td> ✅ </td>
             <td> </td>
         </tr>
       <tr>
             <td><a href="https://github.com/xhelp00/ft_printf">ft_printf</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/ft_printf.png" alt="ft_printf" width="75" /></a></td>
         </tr>
       <tr>
             <td><a href="https://github.com/xhelp00/get_next_line">get_next_line</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/get_next_line-bonus.png" alt="get_next_line" width="75" /></a></td>
         </tr>
       <tr>
             <td>Born2beroot</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/born2beroot-bonus.png" alt="born2beroot" width="75" /></a></td>
         </tr>
       <tr>
             <td><a href="https://github.com/xhelp00/Libft">Libft</td>
-            <td> finished </td>
+            <td> ✅ </td>
             <td><a href="https://github.com/xhelp00/Libft"><img src="https://github.com/xhelp00/xhelp00/blob/main/libft-bonus.png" alt="libft" width="75"/></a></td>
         </tr>
 </table>
