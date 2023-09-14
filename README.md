@@ -106,3 +106,4 @@
 - Building AI (University of Helsinki) ✅
 - Practical Ethical Hacking (TCM) - wip
 - Foundational C# with Microsoft - wip
+- CS50's Introduction to Cybersecurity - tbd
