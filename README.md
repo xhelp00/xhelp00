@@ -105,5 +105,5 @@
 - <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (Python webapp on Streamlit) ✅
 - Building AI (University of Helsinki) ✅
 - Practical Ethical Hacking (TCM) - wip
-- Foundational C# with Microsoft - wip
+- Foundational C# with Microsoft ✅
 - CS50's Introduction to Cybersecurity - tbd
