@@ -22,7 +22,7 @@
     <tbody>
        <tr>
             <td><a href="https://github.com/xhelp00/cub3d">cub3d</td>
-            <td> in progress </td>
+            <td> 🚧 </td>
           <td> </td>
         </tr>
         <tr>
@@ -104,6 +104,6 @@
 - Prague AI Hackathon ✅
 - <a href="https://xhelp00-testing-code-egcmz2.streamlit.app/">PokeAPI (Python webapp on Streamlit) ✅
 - Building AI (University of Helsinki) ✅
-- Practical Ethical Hacking (TCM) - wip
+- Practical Ethical Hacking (TCM) - 🚧
 - Foundational C# with Microsoft ✅
-- CS50's Introduction to Cybersecurity - tbd
+- CS50's Introduction to Cybersecurity - 🚧
