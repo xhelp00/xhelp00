@@ -27,7 +27,7 @@
         </tr>
        <tr>
             <td><a href="https://github.com/xhelp00/cub3d">cub3d</td>
-            <td> 🚧 </td>
+            <td> ✅ </td>
           <td> </td>
         </tr>
         <tr>
