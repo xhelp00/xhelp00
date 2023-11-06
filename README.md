@@ -28,7 +28,7 @@
        <tr>
             <td><a href="https://github.com/xhelp00/cub3d">cub3d</td>
             <td> ✅ </td>
-          <td> </td>
+          <td> <a href="https://github.com/xhelp00/xhelp00/blob/main/cub3d.png"><img src="https://github.com/xhelp00/xhelp00/blob/main/cub3d.png" alt="cub3d" width="75" /></a> </td>
         </tr>
         <tr>
             <td>Exam Rank 04</td>
