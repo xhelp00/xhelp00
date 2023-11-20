@@ -21,9 +21,9 @@
     </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/xhelp00/CPP00">CPP00</td>
-            <td> 🚧 </td>
-          <td> </td>
+            <td><a href="https://github.com/xhelp00/CPP00">CPP00-04</td>
+            <td></td>
+          <td>✅✅🚧🚧🚧</td>
         </tr>
        <tr>
             <td><a href="https://github.com/xhelp00/cub3d">cub3d</td>
