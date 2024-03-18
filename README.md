@@ -21,8 +21,14 @@
     </thead>
     <tbody>
         <tr>
-            <td>Inception</td>
+            <td>ft_irc</td>
             <td> 🚧 </td>
+          <td></td>
+        </tr>
+        <tr>
+        <tr>
+            <td>Inception</td>
+            <td> ✅ </td>
           <td></td>
         </tr>
         <tr>
