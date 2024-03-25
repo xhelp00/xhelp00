@@ -21,7 +21,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>ft_irc</td>
+            <td><a href="https://github.com/xhelp00/ft_irc">ft_irc</td>
             <td> 🚧 </td>
           <td></td>
         </tr>
