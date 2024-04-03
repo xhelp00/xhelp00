@@ -33,7 +33,7 @@
         <tr>
             <td>Inception</td>
             <td> ✅ </td>
-          <td></td>
+          <td> <a href="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/inceptione.png" alt="Inception" width="75" /></a>  </td>  
         </tr>
         <tr>
             <td>Exam Rank 05</td>
