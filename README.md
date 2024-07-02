@@ -25,8 +25,18 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/xhelp00/ft_irc">ft_irc</td>
+            <td>ft_transcedence</td>
             <td> 🚧 </td>
+          <td></td>
+        </tr>
+        <tr>
+            <td>Exam Rank 06</td>
+            <td> 🚧 </td>
+          <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/xhelp00/ft_irc">ft_irc</td>
+            <td> ✅ </td> 
           <td></td>
         </tr>
         <tr>
