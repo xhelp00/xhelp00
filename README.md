@@ -25,7 +25,7 @@
     </thead>
     <tbody>
         <tr>
-            <td>ft_transcedence</td>
+            <td><a href="https://github.com/Suchyw0w/ft_transcendence">ft_transcedence</td>
             <td> 🚧 </td>
           <td></td>
         </tr>
