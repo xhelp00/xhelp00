@@ -13,7 +13,7 @@
 <img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PyCharm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Rider" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
