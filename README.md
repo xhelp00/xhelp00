@@ -12,6 +12,8 @@
 <img align="left" alt="GPT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/1024px-ChatGPT_logo.svg.png" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PyCharm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
