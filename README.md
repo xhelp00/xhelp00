@@ -14,6 +14,7 @@
 <img align="left" alt="CS" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="PyCharm" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rider" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/rider/rider-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
@@ -27,13 +28,13 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/Suchyw0w/ft_transcendence">ft_transcedence</td>
-            <td> 🚧 </td>
+            <td>ft_transcedence</td>
+            <td> ✅ </td>
           <td></td>
         </tr>
         <tr>
             <td>Exam Rank 06</td>
-            <td> 🚧 </td>
+            <td> ✅ </td>
           <td></td>
         </tr>
         <tr>
